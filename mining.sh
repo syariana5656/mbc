@@ -1,7 +1,9 @@
 #!/bin/bash
 #
 # Original script by Syarian
-# 
+# HAYA MINTA DI HARGAIN ORIGINAL JANGAN DI GANTI
+# Donasi tidak di paksa kan Yang mau Berdonasi silahkan
+# Doge : D8ccMV5NvDe3R6LsiGhUHtqMf8fRG7kAJh
 # ==================================================
 
 # Donwload File
