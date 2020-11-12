@@ -6,6 +6,7 @@
 # Doge : D8ccMV5NvDe3R6LsiGhUHtqMf8fRG7kAJh
 # Untuk Website2 vps free dari saya sudah saya tidak perna share lagi maaf karena
 # saya sama sekali tidak di hargain :) " Jika Saya Share Mungkin Sebagian Kecil saja :) "
+# Copy semua lalu pastekan di terminal vps maka akan jalan automatis :)
 # ==================================================
 
 # SUGAR EU
