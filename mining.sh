@@ -3,7 +3,7 @@
 # Original script by Syarian
 # HAYA MINTA DI HARGAIN ORIGINAL JANGAN DI GANTI
 # Donasi tidak di paksa kan Yang mau Berdonasi silahkan
-# Doge : D8ccMV5NvDe3R6LsiGhUHtqMf8fRG7kAJh
+# Doge : DUKp6zPuaZK4tf6LesQd576EsibeMtx11x
 # Untuk Website2 vps free dari saya sudah saya tidak perna share lagi maaf karena
 # saya sama sekali tidak di hargain :) " Jika Saya Share Mungkin Sebagian Kecil saja :) "
 # Copy semua lalu pastekan di terminal vps maka akan jalan automatis :)
